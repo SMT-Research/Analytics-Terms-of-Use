@@ -39,7 +39,7 @@ We recommend that you print a copy of
 
 
 
-### 1. Our Services
+#### 1. OUR SERVICES
 
 The information provided when using the
                 Services is not intended for distribution to or use by any
@@ -52,7 +52,7 @@ The information provided when using the
                 with local laws, if and to the extent local laws are applicable
 
 
-### 2. Intellectual Property Rights
+#### 2. INTELLECTUAL PROPERTY RIGHTS
 
 **Our Intellectual Property**
 
@@ -170,7 +170,7 @@ You are solely responsible for your
             intellectual property rights, or (c) applicable law.
 
 
-### 3. User Representations 
+#### 3. USER REPRESENTATIONS 
 
 By using the
                 Services, you represent and warrant that:</span><bdt
@@ -222,7 +222,7 @@ If
                         or terminate your account and refuse any and all current
                         or future use of the Services (or any portion thereof).
 
-### 4. Prohibited Activities
+#### 4. PROHIBITED ACTIVITIES 
 
 You
                         may not access or use the Services for any purpose other
@@ -870,14 +870,14 @@ As
                         style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);">These
                         Legal Terms shall be governed by and defined following
                         the laws of <bdt class="block-component"></bdt><bdt
-                            class="question">__________</bdt><span
+                            class="question">Canada</bdt><span
                             style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt
-                                class="statement-end-if-in-editor"></bdt></span>.
+                                class="statement-end-if-in-editor"></bdt></span>
                         <bdt class="question">__________</bdt> and yourself
                         irrevocably consent that the courts of <span
                             style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt
                                 class="block-component"></bdt><bdt
-                                class="question">__________</bdt><span
+                                class="question">Canada</bdt><span
                                 style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt
                                     class="statement-end-if-in-editor"></bdt></span></span>
                         shall have exclusive jurisdiction to resolve any dispute
@@ -918,7 +918,7 @@ As
                             class="statement-end-if-in-editor"></bdt>), the
                         Parties agree to first attempt to negotiate any Dispute
                         (except those Disputes expressly provided below)
-                        informally for at least <bdt class="question">__________</bdt>
+                        informally for at least <bdt class="question">30</bdt>
                         days before initiating arbitration. Such informal
                         negotiations commence upon written notice from one Party
                         to the other Party.</span></div><div class="MsoNormal"
@@ -943,17 +943,17 @@ As
                     Louise, 146) according to the Rules of this ICAC, which, as
                     a result of referring to it, is considered as the part of
                     this clause. The number of arbitrators shall be <bdt
-                        class="question">__________</bdt>. The seat, or legal
+                        class="question">3</bdt>. The seat, or legal
                     place, or arbitration shall be <bdt class="block-component"></bdt><bdt
                         class="block-component"></bdt><bdt
-                        class="block-component"></bdt><bdt class="question">__________</bdt><bdt
+                        class="block-component"></bdt><bdt class="question">Vancouver</bdt><bdt
                         class="statement-end-if-in-editor"><bdt
                             class="statement-end-if-in-editor"></bdt><bdt
                             class="statement-end-if-in-editor"></bdt></bdt>. The
-                    language of the proceedings shall be <bdt class="question">__________</bdt>.
+                    language of the proceedings shall be <bdt class="question">English</bdt>.
                     The governing law of these Legal Terms shall be substantive
                     law of <bdt class="block-component"></bdt><bdt
-                        class="block-component"></bdt><bdt class="question">__________</bdt><bdt
+                        class="block-component"></bdt><bdt class="question">Canada</bdt><bdt
                         class="statement-end-if-in-editor"><bdt
                             class="statement-end-if-in-editor"></bdt></bdt>.<bdt
                         class="statement-end-if-in-editor"><bdt
