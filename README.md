@@ -2,7 +2,7 @@
 
 Last Updated 2024-04-01
 
-### Agreement To Out Legal Terms
+### Agreement To Our Legal Terms
 
 We are SMT Research Ltd.
 
